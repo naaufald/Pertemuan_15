@@ -1,4 +1,4 @@
-streamlit as st
-pandas as pd
-matplotlib.pyplot as plt
-numpy as np
+streamlit 
+pandas 
+matplotlib.pyplot 
+numpy
